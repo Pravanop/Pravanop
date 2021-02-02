@@ -1,6 +1,6 @@
 
 
-[![Header](https://raw.githubusercontent.com/Pravanop/Pravanop/master/readme_header.png "Header")](https://martinheinz.dev/)
+![Header](https://raw.githubusercontent.com/Pravanop/Pravanop/master/header_git_profile.jpg "Header")
 ### Hello!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm a B.Tech junior currently studying in the National Institute of Technology, Karnataka, Surathkal pursuing a Major in Metallurgical and Materials Engineering and a Minor in Electronics and Communication Engineering. My main interests lie in Computational Material Science, Machine Learning and 2-D materials. Find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
