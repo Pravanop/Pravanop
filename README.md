@@ -7,6 +7,3 @@ I'm a PhD student in the IMSE department of the Washington University in St. Lou
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravanop&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
-<a href="https://github.com/Pravanop/Pravanop">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pravanop&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Pravan's GitHub Stats" />
-</a>
